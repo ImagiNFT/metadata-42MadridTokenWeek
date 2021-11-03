@@ -1,0 +1,32 @@
+{
+	"version":"alfa",
+    "name":"42 Madrid Token Week | Metaverse Pass",
+	"collection":"42 Madrid Token Week",
+    "description": "This Item is for 42 Madrid Token Week asistents",
+    "ammount": 1,
+    "image":"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/media/sample.png",
+    "image_url":"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/media/sample.png",
+	"imgs" : [
+		"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/media/sample.png",
+	],
+    "background_color":"fefefe",
+    "animation_url":"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/media/sample.png",
+	"model": "the url to 3d model WITHOUT LIGHTS in glb or gltf",
+	"model_with_lights": "the url to 3d model WITH LIGHTS in glb or gltf",
+	"ios_model": " the ios model in extension .usdc",
+	"bgImg": "background for viewer",
+    "attributes":[
+		{
+			"display_type": "date",
+			"trait_type": "25th anniversary of the death of Tupac Amaru Shakur",
+			"value": 1631560039
+		},
+   		{
+			"value":"minted by Universelle"
+		},
+		{
+			"trait_type": "Metaverse Pass",
+			"value":"true"
+		}
+	]
+}
