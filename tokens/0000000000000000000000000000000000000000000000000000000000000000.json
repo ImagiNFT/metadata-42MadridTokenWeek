@@ -4,14 +4,14 @@
 	"collection": "42 Madrid Token Week",
 	"description": "This Item is for 42 Madrid Token Week asistents",
 	"ammount": 1,
-	"image": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/metaverse_pass.jpg",
-	"image_url": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/metaverse_pass.jpg",
+	"image": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/metaverse_pass_1.jpg",
+	"image_url": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/metaverse_pass_1.jpg",
 	"imgs": [
-		"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/metaverse_pass.jpg"
+		"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/metaverse_pass_1.jpg"
 	],
-	"video":"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/42mtw_metaverse_pass.mp4",
+	"video":"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/prev1.mp4",
 	"background_color": "fefefe",
-	"animation_url": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/42mtw_metaverse_pass.mp4",
+	"animation_url": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/prev1.mp4",
 	"model": "the url to 3d model WITHOUT LIGHTS in glb or gltf",
 	"model_with_lights": "the url to 3d model WITH LIGHTS in glb or gltf",
 	"ios_model": "the ios model in extension .usdc",
