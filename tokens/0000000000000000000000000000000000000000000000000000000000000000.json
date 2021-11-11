@@ -11,7 +11,7 @@
 	],
 	"video":"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/prev1.mp4",
 	"background_color": "fefefe",
-	"animation_url": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/prev1.mp4",
+	"animation_url": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/sample.png",
 	"model": "the url to 3d model WITHOUT LIGHTS in glb or gltf",
 	"model_with_lights": "the url to 3d model WITH LIGHTS in glb or gltf",
 	"ios_model": "the ios model in extension .usdc",
