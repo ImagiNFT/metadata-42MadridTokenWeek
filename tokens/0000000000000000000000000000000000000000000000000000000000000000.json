@@ -9,7 +9,7 @@
 	"imgs": [
 		"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/sample.png"
 	],
-	"video":"",
+	"video":"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/42mtw_metaverse_pass.mp4",
 	"background_color": "fefefe",
 	"animation_url": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/42mtw_metaverse_pass.mp4",
 	"model": "the url to 3d model WITHOUT LIGHTS in glb or gltf",
