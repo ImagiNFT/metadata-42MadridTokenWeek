@@ -4,10 +4,10 @@
 	"collection": "42 Madrid Token Week",
 	"description": "This Item is for 42 Madrid Token Week asistents",
 	"ammount": 1,
-	"image": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/sample.png",
-	"image_url": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/sample.png",
+	"image": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/metaverse_pass.jpg",
+	"image_url": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/metaverse_pass.jpg",
 	"imgs": [
-		"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/sample.png"
+		"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/metaverse_pass.jpg"
 	],
 	"video":"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/42mtw_metaverse_pass.mp4",
 	"background_color": "fefefe",
