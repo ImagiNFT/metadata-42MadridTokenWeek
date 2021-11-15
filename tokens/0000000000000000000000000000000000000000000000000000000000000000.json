@@ -1,29 +1,16 @@
 {
 	"version": "alfa",
-	"name": "42 Madrid Token Week | Metaverse Pass",
-	"collection": "42 Madrid Token Week",
-	"description": "This Item is for 42 Madrid Token Week asistents",
+	"name": "SAMPLE",
+	"collection": "SAMPLE",
+	"description": "SAMPLE",
 	"ammount": 1,
-	"image": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/metaverse_pass.webp",
-	"image_url": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/metaverse_pass.webp",
+	"image": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/prev/media/sample.jpeg",
+	"image_url": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/prev/media/sample.jpeg",
 	"imgs": [
-		"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/metaverse_pass.webp"
+		"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/prev/media/sample.jpeg"
 	],
-	"video": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/def.mp4",
+	"video": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/prev/media/sample.jpeg",
 	"background_color": "fefefe",
-	"animation_url": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/def.mp4",
-	"attributes": [
-		{
-			"display_type": "date",
-			"trait_type": "42 Madrid Token Week",
-			"value": 1637060400
-		},
-		{
-			"value": "minted by Universelle"
-		},
-		{
-			"trait_type": "Metaverse Pass",
-			"value": "true"
-		}
-	]
+	"animation_url": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/prev/media/sample.jpeg",
+	"attributes": []
 }
