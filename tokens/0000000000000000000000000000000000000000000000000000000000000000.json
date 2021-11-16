@@ -9,9 +9,9 @@
 	"imgs": [
 		"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/metaverse_pass.webp"
 	],
-	"video": "https://42mad-token-week.vercel.app/video/def3.mp4",
+	"video": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/def4.mp4",
 	"background_color": "fefefe",
-	"animation_url": "https://42mad-token-week.vercel.app/video/def3.mp4",
+	"animation_url": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/def4.mp4",
 	"attributes": [
 		{
 			"display_type": "date",
