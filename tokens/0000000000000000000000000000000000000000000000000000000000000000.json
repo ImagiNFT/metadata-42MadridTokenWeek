@@ -11,6 +11,7 @@
 	],
 	"video":"https://github.com/ImagiNFT/metadata-42MadridTokenWeek/raw/master/media/def1080.mp4",
 	"background_color": "fefefe",
+	"model": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/3dmodel_low.glb",
 	"animation_url": "https://github.com/ImagiNFT/metadata-42MadridTokenWeek/raw/master/media/def1080.mp4",
 	"attributes": [
 		{
