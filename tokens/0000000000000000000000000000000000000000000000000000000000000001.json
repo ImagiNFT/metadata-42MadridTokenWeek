@@ -4,14 +4,14 @@
 	"collection": "",
 	"description": "",
 	"ammount": 1,
-	"image": "",
-	"image_url": "",
+	"image": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/gorroChema.jpg",
+	"image_url": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/gorroChema.jpg",
 	"imgs": [
 		""
 	],
 	"video": "",
 	"background_color": "fefefe",
-	"animation_url": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/gorroChema.glb",
+	"animation_url": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/gorroChemaPinMetalico.glb",
 	"attributes": [
 		{
 			"display_type": "date",
