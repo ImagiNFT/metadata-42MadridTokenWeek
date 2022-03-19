@@ -1,0 +1,29 @@
+{
+	"version": "def",
+	"name": "Gorro Chema Alonso 42 Madrid",
+	"collection": "",
+	"description": "",
+	"ammount": 1,
+	"image": "",
+	"image_url": "",
+	"imgs": [
+		""
+	],
+	"video": "",
+	"background_color": "fefefe",
+	"animation_url": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/gorroChema.glb",
+	"attributes": [
+		{
+			"display_type": "date",
+			"trait_type": "42 Madrid Token Week",
+			"value": 1637060400
+		},
+		{
+			"value": "minted by Universelle"
+		},
+		{
+			"trait_type": "Metaverse Pass",
+			"value": "true"
+		}
+	]
+}
