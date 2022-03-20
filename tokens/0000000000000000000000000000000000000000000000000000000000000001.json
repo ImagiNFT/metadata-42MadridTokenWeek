@@ -11,7 +11,7 @@
 	],
 	"video": "",
 	"background_color": "000000",
-	"model":"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/gorroChemaTexture.glb",
+	"model":"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/GorroChemaTexture.glb",
 	"bgImg":"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/bgStudio.jpeg",
 	"animation_url": "https://imaginft.github.io/42-madrid-collection.github.io/gorroChema",
 	"attributes": [
