@@ -14,16 +14,7 @@
 	"animation_url": "https://imaginft.github.io/42-madrid-collection.github.io/gorroChema",
 	"attributes": [
 		{
-			"display_type": "date",
-			"trait_type": "42 Madrid Token Week",
-			"value": 1637060400
-		},
-		{
 			"value": "minted by Universelle"
-		},
-		{
-			"trait_type": "Metaverse Pass",
-			"value": "true"
 		}
 	]
 }
