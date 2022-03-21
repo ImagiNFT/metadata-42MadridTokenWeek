@@ -1,8 +1,8 @@
 {
 	"version": "def",
-	"name": "Gorro Chema Alonso 42 Madrid",
+	"name": "Gorro de Chema Alonso",
 	"collection": "42 Madrid collection",
-	"description": "",
+	"description": "Para la visita de Chema Alonso el 22 de Marzo de 2022, en muestra de su apoyo a la escuela 42 Madrid se ha tokenizado este elemento icónico de su imagen personal en un 1/1.",
 	"ammount": 1,
 	"image": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/gorroChema.jpg",
 	"image_url": "https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/gorroChema.jpg",
@@ -12,7 +12,7 @@
 	"video": "",
 	"background_color": "000000",
 	"model":"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/gorroChemaTexture.glb",
-	"bgImg":"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/bgStudio.jpeg",
+	"bgImg":"https://raw.githubusercontent.com/ImagiNFT/metadata-42MadridTokenWeek/master/media/bgStudio42.jpeg",
 	"animation_url": "https://imaginft.github.io/42-madrid-collection.github.io/gorroChema",
 	"attributes": [
 		{
